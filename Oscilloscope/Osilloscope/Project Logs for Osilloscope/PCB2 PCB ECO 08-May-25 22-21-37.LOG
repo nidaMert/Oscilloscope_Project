@@ -1,0 +1,85 @@
+Added Component: Designator=C1(5mm_Capacitor)
+Added Component: Designator=C2(5mm_Capacitor)
+Added Component: Designator=C3(5mm_Capacitor)
+Added Component: Designator=C4(5mm_Capacitor)
+Added Component: Designator=C5(5mm_Capacitor)
+Added Component: Designator=D1(ZENER)
+Added Component: Designator=D2(ZENER)
+Added Component: Designator=D3(ZENER)
+Added Component: Designator=D4(LED)
+Added Component: Designator=J1(2_PIN_TERMINAL_BLOCK)
+Added Component: Designator=J2(2PIN-HEADER-2.54mm)
+Added Component: Designator=J3(4PIN-HEADER-2.54mm)
+Added Component: Designator=R1(7MM_RESISTOR)
+Added Component: Designator=R2(7MM_RESISTOR)
+Added Component: Designator=R3(7MM_RESISTOR)
+Added Component: Designator=U1(L7805CV_TO220)
+Added Component: Designator=U2(LD1117_TO-220AB)
+Added Component: Designator=U3(LM358P)
+Added Component: Designator=U4(DIP20-TH)
+Added Pin To Net: NetName=+3V3 Pin=C2-1
+Added Pin To Net: NetName=+3V3 Pin=D1-1
+Added Pin To Net: NetName=+3V3 Pin=J3-01
+Added Pin To Net: NetName=+3V3 Pin=U2-2
+Added Pin To Net: NetName=+3V3 Pin=U4-1
+Added Pin To Net: NetName=+3V3 Pin=U4-16
+Added Net: Name=+3V3
+Added Pin To Net: NetName=+5V Pin=C4-1
+Added Pin To Net: NetName=+5V Pin=U1-3
+Added Pin To Net: NetName=+5V Pin=U3-8
+Added Net: Name=+5V
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-C
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J3-04
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U4-20
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_1 Pin=R1-1
+Added Pin To Net: NetName=NetC5_1 Pin=R2-2
+Added Pin To Net: NetName=NetC5_1 Pin=U3-3
+Added Net: Name=NetC5_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D3-1
+Added Pin To Net: NetName=NetD1_2 Pin=U3-1
+Added Pin To Net: NetName=NetD1_2 Pin=U3-2
+Added Pin To Net: NetName=NetD1_2 Pin=U4-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=J2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R1-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD4_A Pin=D4-A
+Added Pin To Net: NetName=NetD4_A Pin=R3-1
+Added Net: Name=NetD4_A
+Added Pin To Net: NetName=NetJ3_02 Pin=J3-02
+Added Pin To Net: NetName=NetJ3_02 Pin=U4-3
+Added Net: Name=NetJ3_02
+Added Pin To Net: NetName=NetJ3_03 Pin=J3-03
+Added Pin To Net: NetName=NetJ3_03 Pin=U4-4
+Added Net: Name=NetJ3_03
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U4-5
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=U1-1
+Added Pin To Net: NetName=VCC Pin=U2-3
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
+Added Rule: Name=Schematic Supply Nets_3

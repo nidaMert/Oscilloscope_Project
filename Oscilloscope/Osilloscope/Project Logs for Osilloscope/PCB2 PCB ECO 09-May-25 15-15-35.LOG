@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=+3V3 Pin=J3-01
+Removed Pin From Net: NetName=NetJ3_03 Pin=J3-03
+Removed Pin From Net: NetName=GND Pin=J3-04
+Removed Pin From Net: NetName=NetD1_2 Pin=U4-2
+Removed Pin From Net: NetName=NetJ3_03 Pin=U4-4
+Added Component: Designator=J3(4PIN-HEADER-2.54mm)
+Added Pin To Net: NetName=GND Pin=J3-01
+Added Pin To Net: NetName=+3V3 Pin=J3-02
+Added Pin To Net: NetName=NetJ3_03 Pin=J3-03
+Added Pin To Net: NetName=NetJ3_03 Pin=U4-3
+Added Pin To Net: NetName=NetD1_2 Pin=U4-15
+Added Pin To Net: NetName=NetJ3_04 Pin=J3-04
+Added Pin To Net: NetName=NetJ3_04 Pin=U4-4
+Added Net: Name=NetJ3_04
+Added Member To Class: ClassName=Sheet1 Member=Component C5 1nF
